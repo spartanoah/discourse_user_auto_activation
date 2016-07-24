@@ -1,3 +1,9 @@
+# name: Steam auto activation
+# about: Auto activate new accounts
+# version: 1
+# author: angelim
+# template author: S. Saffron
+
 after_initialize do
   # Rails Engine for accepting votes.
   module AutoActivationPlugin
