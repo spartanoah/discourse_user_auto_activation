@@ -1,4 +1,4 @@
-# name: Steam auto activation
+# name: User Auto Activation
 # about: Auto activate new accounts
 # version: 1
 # author: angelim
